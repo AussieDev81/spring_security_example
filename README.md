@@ -478,3 +478,4 @@ Then, go to http://localhost:8080/admin/grades and login using the admin credent
 ![img_10.png](img/admin-content.png)
 
 Because we have the admin role access to the student domain as well, if you go back to http://localhost:8080/student/books you will notice you are still able to view it 😁. 
+🍟
