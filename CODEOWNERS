@@ -1,0 +1,5 @@
+# The default owner for everything in
+# the repo. Unless a later match takes precedence,
+# @AussieDev81 will be requested for review when 
+# someone opens a pull request.
+* @AussieDev81
